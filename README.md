@@ -31,7 +31,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I solve problems on various coding platforms and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ankit-patil-948036196)
+- :mailbox:How to reach me: <a href="www.linkedin.com/in/ankit-patil-948036196">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
