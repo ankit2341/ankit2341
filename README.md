@@ -27,7 +27,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: <a href="ankit2341.github.io">Portfolio</a>
 
 - :zap: In my free time, I solve problems on various coding platforms and read tech articles.
 
@@ -61,7 +61,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ankit2341/ankit2341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
