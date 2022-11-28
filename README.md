@@ -27,11 +27,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
 
-- :telescope: <a href="https://ankit2341.github.io">Portfolio</a>
+- :telescope: <a href="https://ankit2341.github.io" target="_blank">Portfolio</a>
 
 - :zap: In my free time, I solve problems on various coding platforms and read tech articles.
 
-- :mailbox:How to reach me: <a href="www.linkedin.com/in/ankit-patil-948036196">www.linkedin.com/in/ankit-patil-948036196
+- :mailbox:How to reach me: <a href="www.linkedin.com/in/ankit-patil-948036196" target="_blank">LinkedIn
   </a>
 
 
