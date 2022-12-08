@@ -38,7 +38,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 📫:How to reach me: <a href="https://www.linkedin.com/in/ankit-patil-948036196/" target="_blank">LinkedIn
   </a>
 
-
+<br/>
+<hr/>
+<br/>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
@@ -59,18 +61,22 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-
+<br/>
+<hr/>
+<br/>
 ### :fire: My Stats :
 
 <div align="center" style="margin:30px;">
 <img src="https://github-profile-trophy.vercel.app/?username=ankit2341&theme=onedark&background=000000"/>
 </div> 
-
+<br/>
+<hr/>
 <br/>
 <div align="center" display="flex" style="justify-content:space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api?username=ankit2341&show_icons=true&theme=dark&background=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&theme=dark&background=000000"/>
 </div> 
+<br/>
 <hr/>
 <br/>
 <div align="center">
