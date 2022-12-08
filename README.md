@@ -58,8 +58,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-  
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div> 
+
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark&background=000000)](https://git.io/streak-stats)
+</div> 
 
 
   
