@@ -24,6 +24,9 @@
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
+<br/>
+<hr/>
+<br/>
 
 ### :man_technologist: About Me :
 
@@ -37,6 +40,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - 📫:How to reach me: <a href="https://www.linkedin.com/in/ankit-patil-948036196/" target="_blank">LinkedIn
   </a>
+<br/>
+<hr/>
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -58,6 +64,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
+
+<br/>
+<hr/>
+<br/>
+
 
 ### :fire: My Stats :
 
