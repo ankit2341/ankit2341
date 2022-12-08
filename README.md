@@ -67,12 +67,12 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 </div> 
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark&background=000000"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark"/>
 </div> 
 
 <div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=ankit2341&show_icons=true&theme=dark&background=000000"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&layout=compact&theme=dark&background=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&theme=dark&background=000000"/>
 </div> 
 
 <!--  -->https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
