@@ -70,7 +70,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark&background=000000"/>
 </div> 
 
-<div align="center">
+<div align="center" display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit2341&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&layout=compact&theme=dark"/>
 </div> 
 
