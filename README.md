@@ -58,7 +58,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-<div align="center">
+<div align="center" margin-bottom="30px">
 <img src="https://github-profile-trophy.vercel.app/?username=ankit2341&theme=onedark"/>
 </div> 
 
