@@ -17,7 +17,7 @@
 ### Hi, I'm Ankit 👋
 
 <div align="center" style="margin:30px;">
-<img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="200" height="200"/>
+<img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="500" height="300"/>
 </div> 
 
 
