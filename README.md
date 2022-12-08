@@ -71,7 +71,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 </div> 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&layout=compact&theme=dark"/>
 </div> 
 
 <!--  -->https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
