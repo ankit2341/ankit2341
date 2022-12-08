@@ -66,17 +66,16 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <img src="https://github-profile-trophy.vercel.app/?username=ankit2341&theme=onedark&background=000000"/>
 </div> 
 
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark"/>
-</div> 
-
-<div align="center" display="flex">
+<br/>
+<div align="center" display="flex" style="justify-content:space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api?username=ankit2341&show_icons=true&theme=dark&background=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&theme=dark&background=000000"/>
 </div> 
-
-<!--  -->https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
-  
+<hr/>
+<br/>
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark"/>
+</div>   
 <!--
 **ankit2341/ankit2341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
