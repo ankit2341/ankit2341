@@ -30,7 +30,7 @@
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
+- :telescope: An aspiring MERN stack web developer with a passion for web application development. Currently pursuing Full Stack Web Development at Masai School, where I have done more than 1200+ hours of coding, 300+ problems on DSA and 120+ hours of power skills. Skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems. Dedicated to driving innovation with the ability to follow industry and technological trends, and facilitating early adoption of innovations. Using different technologies like HTML, CSS, JavaScript, React, Redux, Nodejs, Express and MongoDB I have made some solo and collaborative projects and also continued to acquire knowledge as much as possible. Now I'm looking forward to enhance my skills in a challenging work environment.
 
 - :telescope: <a href="https://ankit2341.github.io" target="_blank">Portfolio</a>
 
