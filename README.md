@@ -38,9 +38,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - 📫:How to reach me: <a href="https://www.linkedin.com/in/ankit-patil-948036196/" target="_blank">LinkedIn
   </a>
+  
+- <img src="https://komarev.com/ghpvc/?username=ankit2341"/>  
 <br/>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<hr/>
+<div align="center">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
+</div>
+  <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
