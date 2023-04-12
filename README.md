@@ -42,7 +42,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - <img src="https://komarev.com/ghpvc/?username=ankit2341"/>  
 <br/>
 <div align="center">
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </div>
   <hr/>
 
