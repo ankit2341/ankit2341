@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Web Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at RKS Cloud.
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at RKS Cloud. Transforming from a mechanical engineer to a coding enthusiast, my journey embodies a remarkable metamorphosis. Fueled by a relentless passion, I've invested countless hours in hands-on experience, becoming proficient in Next.js, TypeScript, MERN stack, React Native, Java, and more. Beyond code, my story intertwines technical prowess with an engineering background. As a versatile developer, I stand ready to excel in dynamic and innovative projects, symbolizing the spirit of transformation in the ever-evolving realm of software development.
 
 - All My Projects are available at 👉 <a href="https://ankit-patil.vercel.app/" target="_blank">Portfolio</a>
 
